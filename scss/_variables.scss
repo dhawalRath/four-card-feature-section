@@ -1,0 +1,26 @@
+// main-colors 
+$bold-color: hsl(234, 12%, 34%);
+$para-color: hsl(229, 6%, 66%);
+$body-color: hsl(0, 0%, 98%);
+
+// border-colors
+$box-1: hsl(180, 62%, 55%);
+$box-2: hsl(0, 78%, 62%);
+$box-3: hsl(34, 97%, 64%);
+$box-4: hsl(212, 86%, 64%);
+
+// font-weights
+$font-weights: (
+  "thin": 200,
+  "regular": 400,
+  "bold": 600
+);
+
+// font-sizes
+$font-sizes: (
+  "h1": 2rem,
+  "h2": 1.5rem,
+  "h3": 1.125rem,
+  "h4": 1rem,
+  "h5": 0.8125rem
+);
