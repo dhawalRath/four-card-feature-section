@@ -1,41 +1,20 @@
-# Frontend Mentor - Four card feature section solution
+# :star2: Frontend Mentor - Four Card Feature Section :star2:
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
+### :point_right: [Live Site](https://dhawalrath.github.io/four-card-feature-section/)
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+## :camera: Overview
 
-## Overview
+![Desktop](./screenshots/desktop.png)
 
-### Screenshot
+## :muscle: Built With
 
-![](./screenshots/desktop.png)
-![](./screenshots/mobile.png)
-
-
-### Links
-
-- Live Site URL: [view here](https://dhawalrath.github.io/four-card-feature-section/)
-
-## My process
-
-By observing the design I try to visualize number of contianers required and accordingly I choose Grid, Flexbox or both.
-
-### Built with
-
-- Semantic HTML5 markup
+- HTML5 Semantics
+- CSS3 (with Grid and Flexbox)
 - SCSS
-- Flexbox
-- Grid
 
-## Author
+## :man: Author
 
 - Frontend Mentor - [@dhawalRath](https://www.frontendmentor.io/profile/dhawalRath)
 - Twitter - [@dhawalRath](https://www.twitter.com/dhawalRath)
